@@ -1,0 +1,1 @@
+# amulya-static-page
